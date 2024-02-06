@@ -20,7 +20,6 @@
 * analyzing skills that are currently required in Data Analyst/ Scientist positions
 * what are those skills?
 * did the requirements change since ChatGPT? Is a different set of skills asked?
-* how reliable is ChatGPT/ AI to replace skills such as programming/ forecasting/ etc.?
   * what are expert/ public opinions on ChatGPT?
 * how does an applicant optimize their CV to be successful in today’s job market?
 * analyze role of personal branding for applicants:
@@ -29,4 +28,4 @@
   * do usernames reflect professional interests & diversity?
   * how can the use of specific usernames be beneficial in the application process?
 
-The goal is to develop a service (**'Data CV Pro'**) that helps applicants optimize their CVs for a Data Analyst/ Data Scientist position
+The goal is to develop a service (**'Data CV Pro'**) that helps applicants prepare for a Data Analyst/ Data Scientist position and use personal branding to optimize their CV.
